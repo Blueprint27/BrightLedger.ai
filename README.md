@@ -26,51 +26,30 @@ Working prototype / MVP
 - Branded user interface
 
 ## Live Demo
-(Add your live BrightLedger link here)
+- Replit App: https://web-data-miner-velskee30.replit.app/
+- Domain: https://brightledger.it.com
 
 ## Screenshots / Demo
 Screenshots and demo visuals will be added here.
 
 ## Tech Stack
-- Frontend:
-- Backend:
-- Database:
-- Auth:
-- Hosting:
-- APIs:
-
-## How It Works
-1. User lands on the BrightLedger.ai homepage
-2. User creates an account or logs in
-3. User accesses the dashboard and account-related flows
-4. The platform guides the user through a cleaner financial and credit workflow experience
-
-## My Role
-I led the product vision, branding direction, workflow design, and implementation of the landing page, account flows, dashboard structure, and platform presentation.
+- Frontend: HTML, CSS, JavaScript
+- Backend: JavaScript app logic
+- Database: Firebase and local linked user data
+- Auth: Firebase Authentication
+- Hosting: Replit
+- Domain: brightledger.it.com
+- APIs/Services: Firebase Authentication, password reset flow, account recovery flows
 
 ## What’s Working Now
 - Landing page
 - Login flow
-- Forgot password
-- Forgot username
-- Dashboard routing
-- Core user interface
-
-## Next Version Roadmap
-- Admin panel improvements
-- Better analytics and logging
-- Domain and SEO polish
-- Expanded dashboard functionality
-
-## Setup Instructions
-1. Clone the repository
-2. Open the project in Replit or your local editor
-3. Add the required environment variables and configuration
-4. Run the app
-5. Test the login and dashboard flows
+- Create account entry point
+- Forgot password flow
+- Forgot username support
+- Firebase Authentication connection
+- Linked user/account data structure
+- Domain presence
 
 ## Notes
-BrightLedger.ai is currently positioned as a working prototype focused on modernizing financial and credit-related workflow experiences through a cleaner interface and guided dashboard structure.
-
-## Update Log
-- 2026-03-25 — Repository created and README structured for portfolio presentation
+BrightLedger.ai is currently a working prototype with a live branded landing page, account access flows, and Firebase Authentication connected through the CreditRepairBot Firebase project. Password reset is already built and active.
