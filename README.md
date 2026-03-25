@@ -30,7 +30,18 @@ Working prototype / MVP
 - Domain: https://brightledger.it.com
 
 ## Screenshots / Demo
-Screenshots and demo visuals will be added here.
+
+### Homepage
+![Homepage](afc18d70-dc50-40e6-adaa-b0245d232a4a.png)
+
+### Login View
+![Login View](672477ff-8977-48af-bd46-175e60480b81.png)
+
+### Firebase Authentication
+![Firebase Authentication](9ef9a418-3707-4b2f-9caf-00fa3d4cfcb5.png)
+
+### Firebase Project Overview
+![Firebase Project Overview](e2e6d72d-50eb-4674-9b45-2382b81ea6df.png)
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
