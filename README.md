@@ -43,7 +43,7 @@ Screenshots and demo visuals will be added here.
 - APIs/Services: Firebase Authentication, password reset flow, account recovery flows
 
 ## What’s Working Now
-- Branded landing page
+- Landing page
 - Login flow
 - Create account entry point
 - Forgot password flow
@@ -53,5 +53,5 @@ Screenshots and demo visuals will be added here.
 - User-specific dashboard experience
 - Domain presence
 
-## Notes
+- ## Notes
 BrightLedger.ai is currently a working prototype with a live branded landing page, Firebase Authentication, and confirmed authenticated dashboard access. Password reset is already built and active through the CreditRepairBot Firebase project.
