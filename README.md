@@ -26,41 +26,32 @@ Working prototype / MVP
 - Branded user interface
 
 ## Live Demo
-- Replit App: https://web-data-miner-velskee30.replit.app/
+- Public Replit App: https://web-data-miner-velskee30.replit.app/
 - Domain: https://brightledger.it.com
+- Authenticated Dashboard Preview: https://d41acd9f-875d-4831-9da7-da6627894842-00-3g8oh2td3r1co.worf.replit.dev/dashboard
 
 ## Screenshots / Demo
-
-### Homepage
-![Homepage](afc18d70-dc50-40e6-adaa-b0245d232a4a.png)
-
-### Login View
-![Login View](672477ff-8977-48af-bd46-175e60480b81.png)
-
-### Firebase Authentication
-![Firebase Authentication](9ef9a418-3707-4b2f-9caf-00fa3d4cfcb5.png)
-
-### Firebase Project Overview
-![Firebase Project Overview](e2e6d72d-50eb-4674-9b45-2382b81ea6df.png)
+Screenshots and demo visuals will be added here.
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: JavaScript app logic
-- Database: Firebase and local linked user data
+- Database: Firebase and linked local user/account data
 - Auth: Firebase Authentication
 - Hosting: Replit
 - Domain: brightledger.it.com
 - APIs/Services: Firebase Authentication, password reset flow, account recovery flows
 
 ## What’s Working Now
-- Landing page
+- Branded landing page
 - Login flow
 - Create account entry point
 - Forgot password flow
 - Forgot username support
-- Firebase Authentication connection
-- Linked user/account data structure
+- Firebase Authentication
+- Authenticated dashboard access
+- User-specific dashboard experience
 - Domain presence
 
 ## Notes
-BrightLedger.ai is currently a working prototype with a live branded landing page, account access flows, and Firebase Authentication connected through the CreditRepairBot Firebase project. Password reset is already built and active.
+BrightLedger.ai is currently a working prototype with a live branded landing page, Firebase Authentication, and confirmed authenticated dashboard access. Password reset is already built and active through the CreditRepairBot Firebase project.
