@@ -30,6 +30,7 @@ Working prototype / MVP
 - Domain: https://brightledger.it.com
 
 ## Screenshots / Demo
+
 ### Login View
 ![Login View](6995765c-b2c7-449c-b44d-c8e910c5d2ff.png)
 
@@ -62,5 +63,5 @@ Working prototype / MVP
 - User-specific dashboard experience
 - Domain presence
 
-- ## Notes
+  ## Notes
 BrightLedger.ai is currently a working prototype with a live branded landing page, Firebase Authentication, and confirmed authenticated dashboard access. Password reset is already built and active through the CreditRepairBot Firebase project.
