@@ -28,10 +28,19 @@ Working prototype / MVP
 ## Live Demo
 - Public Replit App: https://web-data-miner-velskee30.replit.app/
 - Domain: https://brightledger.it.com
-- Authenticated Dashboard Preview: https://d41acd9f-875d-4831-9da7-da6627894842-00-3g8oh2td3r1co.worf.replit.dev/dashboard
 
 ## Screenshots / Demo
-Screenshots and demo visuals will be added here.
+### Login View
+![Login View](6995765c-b2c7-449c-b44d-c8e910c5d2ff.png)
+
+### Dashboard
+![Dashboard](75dff4cb-20e0-43d2-a059-0b53f46a4056.png)
+
+### Firebase Authentication
+![Firebase Authentication](8f322d92-3951-4070-9610-ba199f9e921c.png)
+
+### Firebase Project Overview
+![Firebase Project Overview](edf68e91-a40c-42e6-9a6a-57d47987b339.png)
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
